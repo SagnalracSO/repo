@@ -3,7 +3,7 @@
     "class_id": 1,
     "info": {
       "age_group": "Youth",
-      "fee": 100,
+      "fee": 100
     }
   },
   {
@@ -11,11 +11,11 @@
     "info": [
     {
       "age_group": "Youth",
-      "fee": 100,
+      "fee": 100
     },
     {
       "age_group": "Adult",
-      "fee": 200,
+      "fee": 200
     }
     ]
   }
