@@ -1,22 +1,21 @@
 {
-	"data": [{
-			"class_id": 1,
-			"info": {
-				"age_group": "Youth",
-				"fee": 100
-			}
-		},
-		{
-			"class_id": 2,
-			"info": [{
-					"age_group": "Youth",
-					"fee": 100
-				},
-				{
-					"age_group": "Adult",
-					"fee": 200
-				}
-			]
-		}
-	]
+    "data": [{
+        "class_id": 1,
+	"info": {
+	    "age_group": "Youth",
+	    "fee": 100
+            }
+    	},
+	{
+	"class_id": 2,
+	"info": [
+    	{
+            "age_group": "Youth",
+	    "fee": 100
+    	},
+    	{
+	    "age_group": "Adult",
+	    "fee": 200
+    	}]
+    }]
 }
