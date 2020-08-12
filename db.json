@@ -1,21 +1,35 @@
 {
-    "data": [{
-        "class_id": 1,
-	"info": {
-	    "age_group": "Youth",
-	    "fee": 100
-            }
-    	},
-	{
-	"class_id": 2,
-	"info": [
-    	{
-            "age_group": "Youth",
-	    "fee": 100
-    	},
-    	{
-	    "age_group": "Adult",
-	    "fee": 200
-    	}]
-    }]
+  "products": [
+    {
+      "id": 14,
+      "name": "Cooler Master Alcor",
+      "launch_year": 2014,
+      "dimensions": "125 x 60 x 40",
+      "weight": "86",
+      "image": "Cooler-Master-Alcor-small.png"
+   },
+   {
+      "id": 15,
+      "name": "Cooler Master Havoc",
+      "launch_year": 2013,
+      "dimensions": "125 x 85 x 45",
+      "weight": "140",
+      "image": "cooler-master-havoc.png"
+   },
+   {
+      "id": 15,
+      "name": "Cooler Master Inferno",
+      "launch_year": 2010,
+      "dimensions": "120 x 75 x 40",
+      "weight": "?",
+      "image": "cm-inferno.png"
+   }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
